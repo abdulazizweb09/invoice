@@ -117,4 +117,60 @@
   body {
     @apply bg-background text-foreground;
   }
+  .container-m{
+    width: 100%;
+    max-width: 730px;
+    margin: 0 auto;
+  }
+  .w-103 {
+    width: 103px;
+  }
+  .bg-navbar{
+    background-color: #373B53;
+  }
+  .bg-dark-navbar{
+    background-color: #1E2139;
+  }
+  .color-hom{
+    color: #0C0E16;
+  }
+  .text-3-5xl{
+    font-size: 32px;
+  }
+   .text-12{
+    font-size: 12px;
+    color: #888EB0;
+  }
+  .bg-button{
+    background-color: #7C5DFA;
+  }
+  .card-shadow{
+    box-shadow: 0px 10px 10px -10px #48549F1A;
+  }
+  .bg-hom{
+    background-color: #F8F8FB;
+  }
+  .bg-dark{
+    background-color: #141625;
+  }
+  .btn-bg{
+    background-color: #EC5757;
+  }
+  .btn-paid{
+    background-color: #7C5DFA;
+  }
+  .details-status{
+    box-shadow: 0px 10px 10px -10px #48549F1A;
+  }
+  .text-color{
+    color: #7E88C3;
+  }
+  .items{
+    background-color: #F9FAFE;
+  }
+  .items-b{
+    background-color: #373B53;
+  }
 }
+
+

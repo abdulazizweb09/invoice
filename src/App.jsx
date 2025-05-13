@@ -14,7 +14,6 @@ function App() {
   let dispatch = useDispatch()
   let auth = getAuth();
   let { user } = useSelector((state) => state.user);
-  console.log(user);
   
   useEffect(() => {
     dispatch(setloading(true));
